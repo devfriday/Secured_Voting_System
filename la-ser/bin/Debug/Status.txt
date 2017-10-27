@@ -1,0 +1,4 @@
+﻿Alice,114000000,citizen
+Tim,114000001,permanent resident
+Chris,114000002,citizen
+Mike,114000003,citizen
